@@ -59,4 +59,4 @@ Make your changes and commit them (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-name).
 Open a pull request.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE fil
